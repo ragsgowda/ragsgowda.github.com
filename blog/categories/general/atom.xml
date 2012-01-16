@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Romeo Gowda]]></title>
   <link href="http://ragsgowda.github.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://ragsgowda.github.com/"/>
-  <updated>2012-01-13T11:25:37+05:30</updated>
+  <updated>2012-01-16T13:27:35+05:30</updated>
   <id>http://ragsgowda.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -26,6 +26,13 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>``` javascript Discover if a number is prime http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
+function testing(){</p>
+
+<p>}</p>
+
+<p>```</p>
 ]]></content>
   </entry>
   
