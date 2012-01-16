@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: General | Romeo Gowda]]></title>
+  <title><![CDATA[Category: General | Raghavendra Gowda]]></title>
   <link href="http://ragsgowda.github.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://ragsgowda.github.com/"/>
-  <updated>2012-01-16T13:27:35+05:30</updated>
+  <updated>2012-01-16T14:49:46+05:30</updated>
   <id>http://ragsgowda.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Raghavendra.H.Gowda]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
